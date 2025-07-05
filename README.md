@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/c0dr-canteen-mcp-badge.png)](https://mseep.ai/app/c0dr-canteen-mcp)
+
 # Canteen MCP
 
 A Model Context Protocol (MCP) server that provides access to the canteen's lunch menu via a simple API integration.
